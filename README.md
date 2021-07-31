@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou buscando novas oportunidade, estagio, vagas Front-end Junior
+- 🔭 Estou buscando novas oportunidade, estagio, Front-end Junior
 - 🌱 Estudando Typescript
 - 📫 Contate-me no email: vmariz999@gmail.com
 
