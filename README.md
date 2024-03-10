@@ -2,10 +2,10 @@
 
 
 
-- 🔭 Estou buscando novas oportunidades, estagio, Front-end Junior
-- 🌱 Estudando Nodejs
-- ✍ Estudando React
-- 📚 E estudando sobre UX Designer
+- 🔭 Estou buscando novas oportunidades, estagio, FullStack Junior
+- 🌱 Estudando React
+- ✍ Estudando Java
+   
 - 📫 Contate-me no email: vmariz999@gmail.com
 
 <div>
@@ -35,7 +35,8 @@
   <a href="https://www.linkedin.com/in/francisca-costa-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
     
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
     
   </div>
   
+
